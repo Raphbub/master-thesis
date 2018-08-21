@@ -7,4 +7,4 @@ This repository is an appendix to the master's thesis mentionned above. It conta
 ### Contents of folders
 - analyse: Code excerpts of all the preparation, indicators computation, and clustering steps.
 - data: Sources and locations of data sets
-- writing: *pending review* The final paper on the subject
+- writing: The final work on the subject
